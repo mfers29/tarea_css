@@ -1,0 +1,124 @@
+﻿body{
+	background-image: url("../img/bigbackground.jpg"); /*Se ponen los dos puntos para que salga de la carpeta CSS y se meta en la carpeta IMG a buscar la imagen pedida, si no buscaría la carpeta IMG detro de la CSS*/
+	background-attachment: fixed;
+	background-color:grey; /*La imagen tiene prioridad pero se pone como alternativo por si no la cargase*/
+    }	
+h1{
+    text-align:center;
+    font-family:Arial;
+	font-size:3.0em;
+}
+h1 span{
+	background-color:#e5c6ff;
+}
+h4{
+    text-align:center;
+    font-family:Arial;
+    background-color:#cce3da;
+}
+h6{
+    text-align:left;
+    font-family:Arial;
+	font-size:0.9em;
+}
+h6 span{
+	background-color:#cbc3d9;
+}
+p{
+    text-align:justify;
+    font-family:Arial;
+	font-weight:bold;
+	color:#9ab2d4;
+}
+.tabla{
+    background-color:#df01d7;
+    border-collapse:collapse;
+    font-family:Arial;
+    }
+caption{ /*Damos formato al título de la tabla, como solo tengo una lo hago directamente*/
+	border:2px solid black;
+	font-weight:bold;
+	font-size:1.1em;
+	background-color:#C3F;
+	}
+td{
+    text-align:center;
+    width:160px;
+    height:40px;
+    border:2px solid black;
+    font-size:0.7em;
+    }
+.tr_1{
+    background-color:#f781f3;
+    }
+.tr_2{
+    background-color:#f6cef5;
+    }
+th{
+    border:2px solid black;
+    }
+	   
+a{
+    text-decoration:none;
+    color:#F0F;
+    font-family:Arial;
+}    
+img{
+    display:block;
+    margin:auto;
+	height:200px;
+	width:500px;
+    }
+	
+#c_titulos{
+	width:auto;
+	background-color:transparent;
+	padding:2px 10px 2px 10px; /*Esto pone un relleno con el color de fondo de los px que pone arriba, derecha, abajo, izquierda*/
+	}
+#cuadros{
+	padding:10px 10px 10px 2px;
+	background-color:transparent;
+	}
+#c_parrafos_up{
+	width:auto;
+	background-color:transparent;
+	padding:10px 10px 4px 10px; /*Esto pone un relleno con el color de fondo de los px que pone arriba, derecha, abajo, izquierda*/
+	}
+#c_split{
+	padding: 15px 0px 15px 20px;
+	background-color:transparent;
+	height:260px;
+	}	
+
+#c_tabla{
+	width:450px;
+	background-color:#ccc;
+	padding:10px 10px 10px 10px; /*Esto pone un relleno con el color de fonde de los px que pone arriba, derecha, abajo, izquierda*/
+	}
+#c_parrafos_sd{
+	width:550px;
+	background-color:transparent;
+	padding: 0px 0px 0px 0px;
+	position:relative; /*Desplaza el contenedor desde donde debería estar los píxeles que se le digan*/
+	left:500px;
+	top:-260px;
+	}
+
+#c_parrafos_dn{
+	width:auto;
+	background-color:transparent;
+	padding:10px 10px 4px 10px; /*Esto pone un relleno con el color de fondo de los px que pone arriba, derecha, abajo, izquierda*/
+	}
+	
+#c_imagen{
+height:220px;
+width:520px;
+display:block;
+margin:auto;
+alignment-adjust:central;
+}
+#c_lnk span{
+	font-size:1.3em;
+	}
+
+
