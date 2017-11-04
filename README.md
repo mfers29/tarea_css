@@ -9,6 +9,8 @@ Hoja CSS valida con el siguiente [enlace](http://jigsaw.w3.org/css-validator/#va
 
 HTML valida con [este](https://validator.w3.org/#validate_by_upload).  
 
+(La dirección también valida en RawGit).
+
 En ambas hojas de código hay comentarios que explican loa que se ha hecho y para qué sirve lo que se ha hecho.  
 
 La estructura de la web sigue el siguiente ![Esquema](/Esquema.jpg):  
