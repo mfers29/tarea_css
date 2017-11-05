@@ -14,3 +14,6 @@ HTML validada con [este](https://validator.w3.org/#validate_by_upload).
 En ambas hojas de código hay comentarios que explican lo que se ha hecho y para qué sirve.  
 
 La estructura de la web sigue el siguiente ![Esquema](/Esquema.jpg):  
+
+Adjunto url de RawGit: 
+https://rawgit.com/mfers29/tarea_css/master/index.html
