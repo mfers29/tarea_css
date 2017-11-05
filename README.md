@@ -16,4 +16,6 @@ En ambas hojas de código hay comentarios que explican lo que se ha hecho y para
 La estructura de la web sigue el siguiente ![Esquema](/Esquema.jpg):  
 
 Adjunto url de RawGit: 
-https://rawgit.com/mfers29/tarea_css/master/index.html
+https://rawgit.com/mfers29/tarea_css/master/index.html  
+
+Nota:Para este ejercicio se pedía utilizar el documento HTML del ejercicio anterior. Al no saber lo que era el CSS le puse estilos ya que me ayudé de ejemplos en internet.  Para este ejercicio he corregido el HTML que envié dejándolo en HTML sin estilos e insertándole capas.
